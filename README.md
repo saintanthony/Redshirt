@@ -4,6 +4,6 @@ But because this mod did so well and because not everybody is cut out to be a Re
 Now you can have yourself an Away Team. ;)
 Screenshots below!
 
-[Redshirt]( https://github.com/saintanthony/Redshirt/blob/main/redshirtpreview.png "Redshirt")
-[Blueshirt]( https://github.com/saintanthony/Redshirt/blob/main/blueshirtpreview.png "Blueshirt")
-[Goldshirt]( https://github.com/saintanthony/Redshirt/blob/main/goldshirtpreview.png "Goldshirt")
+![Redshirt]( https://github.com/saintanthony/Redshirt/blob/main/redshirtpreview.png "Redshirt")
+![Blueshirt]( https://github.com/saintanthony/Redshirt/blob/main/blueshirtpreview.png "Blueshirt")
+![Goldshirt]( https://github.com/saintanthony/Redshirt/blob/main/goldshirtpreview.png "Goldshirt")
