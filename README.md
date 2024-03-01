@@ -7,7 +7,7 @@ Boss, err I mean, Lead those Lower Decks! Screenshots below! Thank you all for d
 If you can't see the screenshots below go here: https://github.com/saintanthony/Redshirt#
 
 <p align="center">
-	<img src="https://media.discordapp.net/attachments/456306509266157599/1199268814165123143/redshirtpreview.png?ex=65c1ed1e&is=65af781e&hm=9bb462f7b031c886657bbecbe88139565ac63181e21b004880c391cf097a6b63&=&format=webp&quality=lossless&width=318&height=676">
+	<img src="https://cdn.discordapp.com/attachments/456306509266157599/1199268814165123143/redshirtpreview.png?ex=65f0119e&is=65dd9c9e&hm=1147e4eec79df2c5226b1392642b285fd72d8591070ff5d9b34bb988d529fa17&=&format=webp&quality=lossless&width=318&height=676">
 	<img src="https://media.discordapp.net/attachments/456306509266157599/1199268816283246644/Lieutenant_Redshirt_preview.png?ex=65c1ed1f&is=65af781f&hm=fd7ebade406851266832604142fa83284595f83dade39247bc2d52fcff4f8f40&=&format=webp&quality=lossless&width=300&height=675">
 	<img src="https://media.discordapp.net/attachments/456306509266157599/1199268815217885274/Ensign_Redshirt_preview.png?ex=65c1ed1e&is=65af781e&hm=adc649e395f3957e8cf45cea837547a078dae6ed3bc9e6faaa2ec0cc0157bd3c&=&format=webp&quality=lossless&width=303&height=675">
 	<img src="https://media.discordapp.net/attachments/456306509266157599/1199268814458736640/blueshirtpreview.png?ex=65c1ed1e&is=65af781e&hm=40d8b3002a5a210a0894a9c4cb3ca1cd3378a53d24448d0b77b8673808bd0b2a&=&format=webp&quality=lossless&width=329&height=675">
